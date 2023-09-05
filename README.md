@@ -8,7 +8,7 @@
 * [Autores](#autores)
 
 # Projeto - Portifólio para escrita do README
-[imagem](img/capa.png)
+![imagem](img/capa.png)
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Descrição
