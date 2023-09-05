@@ -18,10 +18,19 @@
 * [Voltar para o Índice](#%C3%ADndice)
 
 ### Tecnologias utilizadas
+1. `Git`
+2. `Git Hub`
+3. `Visual Estudio Code`
+4. `Html`, `Css`, `Bootstrap`
+
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Fontes consultadas
+1. `Bootstrap`
+2. `Alura`
+3. `Git Hub`
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Autores
+* [CaioTico](https://github.com/caiotico)
 * [Voltar para o Índice](#%C3%ADndice)
