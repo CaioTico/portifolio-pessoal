@@ -12,9 +12,11 @@
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Descrição
+Este é um modelo de página inicial simples e bonita, projetado para ajudar você a criar uma presença online atraente rapidamente. Com um design limpo e moderno, esta página proporcionará uma experiência agradável aos visitantes.
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Funcionalidade
+Uma página com contato, home, caracteristicas.
 * [Voltar para o Índice](#%C3%ADndice)
 
 ### Tecnologias utilizadas
