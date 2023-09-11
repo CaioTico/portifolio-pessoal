@@ -34,5 +34,5 @@ Uma página com contato, home, caracteristicas.
 * [Voltar para o Índice](#%C3%ADndice)
 
 ## Autores
-* [CaioTico](https://github.com/caiotico)
+* [`CaioTico`](https://github.com/caiotico)
 * [Voltar para o Índice](#%C3%ADndice)
